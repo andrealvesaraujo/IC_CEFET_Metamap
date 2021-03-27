@@ -1,8 +1,0 @@
-
-public class principal {
-
-	public static void main(String[] args) {
-		//Um texto grande como entrada e mostrar no terminal as entidade nomeadas da area de saúde
-	}
-
-}
